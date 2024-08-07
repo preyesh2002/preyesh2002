@@ -57,9 +57,9 @@ I build robust 🌐 Web Applications and 🚀 AI-powered Platforms using the MER
 <p align="center">
   <i>Check out my repositories below and let's connect!</i>
 <p align="center">
-<a href= "https://github.com/yourusername/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/yourprofile/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/yourusername"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://github.com/preyesh2002/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/preyesh-cp/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/preyesh-cp"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://yourbloglink.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 <p  align="center">
